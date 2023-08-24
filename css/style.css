@@ -3,9 +3,10 @@
     margin: 0%;
 }
 body{
-  background-image: url(/picture/WebDevHiring-SparkleHomepage.png);
+  background-image: url(../picture/WebDevHiring-SparkleHomepage.png);
   background-repeat: no-repeat;
-  background-size: 100%,100vh;
+  background-size: 100% 100vh;
+  background-attachment: fixed;
   
 }
 nav{
@@ -79,6 +80,7 @@ input{
     border: none;
    
 }
+
 
 
 
