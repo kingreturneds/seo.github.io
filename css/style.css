@@ -1,0 +1,86 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+  background-image: url(/picture/WebDevHiring-SparkleHomepage.png);
+  background-repeat: no-repeat;
+  background-size: 100% ,100vh;
+  
+}
+nav{
+    width: 100%;
+    margin: 3rem;
+   
+}
+.navbar-nav{
+    flex-direction: row;
+    margin: 20px;
+   border: none;
+
+}
+
+.navbar-nav p{
+    font-size: 40px;
+    padding-bottom: 1px;
+    font-family: brush script mt;
+     padding-right: 350px;
+     padding-left: 380px;
+     color: rgb(255, 255, 255);
+     
+
+}
+.navbar-nav p span{
+    font-family: none;
+    font-size: medium;
+    
+
+}
+
+
+.navbar-nav a{
+    margin: 12px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+     
+}
+
+.navbar-nav img{
+    height: 20px;
+    width: 20px;
+    margin: 20px;
+    margin-left: -2px;
+}
+form{
+    margin: 2px;
+}
+
+input{
+    border-left: none;
+  border-right: none;
+  border-top: none;
+}
+.XD{
+    border: none;
+    display: grid;
+    place-items: center;
+}
+.XD p{
+    color: white;
+    margin-top: 140px;
+}
+.XD button{
+    padding: 1rem;
+    border-radius: 49px;
+    background: linear-gradient(-180deg, #d7f0bb, rgb(83, 211, 115), #21c437, #006905);
+    color: white;
+    font: bold;
+    margin-top: 40px;
+    border: none;
+   
+}
+
+
+
+
+
